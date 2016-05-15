@@ -1,2 +1,2 @@
-# CopyPastaaa
-copy pastas 
+# Copy Pasta Bin
+Here I put my copypastas
